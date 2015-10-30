@@ -1,1 +1,76 @@
-{}
+{
+    "id": 40,
+    "result": {
+        "inlineStyle": {
+            "cssProperties": [
+                {
+                    "disabled": false,
+                    "implicit": false,
+                    "name": "background",
+                    "range": {
+                        "endColumn": 14,
+                        "endLine": 0,
+                        "startColumn": 0,
+                        "startLine": 0
+                    },
+                    "text": "background:red",
+                    "value": "red"
+                },
+                {
+                    "name": "background-image",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-repeat-x",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-repeat-y",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-attachment",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-position-x",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-position-y",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-origin",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-clip",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-color",
+                    "value": "red"
+                },
+                {
+                    "name": "background-size",
+                    "value": "initial"
+                }
+            ],
+            "cssText": "background:red",
+            "range": {
+                "endColumn": 14,
+                "endLine": 0,
+                "startColumn": 0,
+                "startLine": 0
+            },
+            "shorthandEntries": [
+                {
+                    "name": "background",
+                    "value": "red"
+                }
+            ],
+            "styleSheetId": "88928.9"
+        }
+    }
+}

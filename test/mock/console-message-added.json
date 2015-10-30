@@ -1,0 +1,29 @@
+{
+    "method": "Console.messageAdded",
+    "params": {
+        "message": {
+            "column": 18,
+            "level": "log",
+            "line": 10,
+            "parameters": [
+                {
+                    "type": "string",
+                    "value": "hi"
+                }
+            ],
+            "repeatCount": 3,
+            "source": "console-api",
+            "stackTrace": [
+                {
+                    "columnNumber": 18,
+                    "functionName": "",
+                    "lineNumber": 10,
+                    "url": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/"
+                }
+            ],
+            "text": "hi",
+            "type": "log",
+            "url": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/"
+        }
+    }
+}

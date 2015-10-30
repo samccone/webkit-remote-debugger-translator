@@ -1,1 +1,391 @@
-{"result":{"matchedCSSRules":[],"pseudoElements":[],"inherited":[{"matchedCSSRules":[{"rule":{"selectorList":{"selectors":[{"text":"body","specificity":[0,0,1]}],"text":"body"},"sourceLine":0,"origin":"user-agent","style":{"cssProperties":[{"name":"display","value":"block"},{"name":"margin-top","value":"8px"},{"name":"margin-right","value":"8px","implicit":true},{"name":"margin-bottom","value":"8px","implicit":true},{"name":"margin-left","value":"8px","implicit":true}],"shorthandEntries":[{"name":"margin","value":"8px"}],"styleId":{"styleSheetId":"14","ordinal":2},"width":"","height":""}},"matchingSelectors":[0]},{"rule":{"selectorList":{"selectors":[{"text":"body","specificity":[0,0,1]}],"text":"body","range":{"startLine":0,"startColumn":0,"endLine":0,"endColumn":4}},"sourceLine":0,"origin":"regular","style":{"cssProperties":[{"name":"transition","value":"opacity ease-in 0.2s","text":"transition: opacity ease-in 0.2s;","implicit":false,"range":{"startLine":0,"startColumn":6,"endLine":0,"endColumn":39},"status":"active"},{"name":"transition-property","value":"opacity"},{"name":"-webkit-transition-property","value":"opacity"},{"name":"transition-duration","value":"0.2s"},{"name":"-webkit-transition-duration","value":"0.2s"},{"name":"transition-timing-function","value":"ease-in"},{"name":"-webkit-transition-timing-function","value":"ease-in"},{"name":"transition-delay","value":"initial"},{"name":"-webkit-transition-delay","value":"initial"}],"shorthandEntries":[{"name":"transition","value":"opacity 0.2s ease-in"},{"name":"-webkit-transition","value":"opacity 0.2s ease-in"}],"styleId":{"styleSheetId":"7","ordinal":0},"width":"","height":"","range":{"startLine":0,"startColumn":6,"endLine":0,"endColumn":40},"cssText":"transition: opacity ease-in 0.2s; "},"sourceURL":"https://www.polymer-project.org/summit","ruleId":{"styleSheetId":"7","ordinal":0}},"matchingSelectors":[0]},{"rule":{"selectorList":{"selectors":[{"text":"body","specificity":[0,0,1]},{"text":"h3","specificity":[0,0,1]}],"text":"body, h3","range":{"startLine":0,"startColumn":163,"endLine":0,"endColumn":170}},"sourceLine":0,"origin":"regular","style":{"cssProperties":[{"name":"margin","value":"0","text":"margin:0","implicit":false,"range":{"startLine":0,"startColumn":171,"endLine":0,"endColumn":179},"status":"active"},{"name":"margin-top","value":"0px"},{"name":"margin-right","value":"0px","implicit":true},{"name":"margin-bottom","value":"0px","implicit":true},{"name":"margin-left","value":"0px","implicit":true}],"shorthandEntries":[{"name":"margin","value":"0px"}],"styleId":{"styleSheetId":"8","ordinal":1},"width":"","height":"","range":{"startLine":0,"startColumn":171,"endLine":0,"endColumn":179},"cssText":"margin:0"},"sourceURL":"https://www.polymer-project.org/summit/styles/main.css","ruleId":{"styleSheetId":"8","ordinal":1}},"matchingSelectors":[0]},{"rule":{"selectorList":{"selectors":[{"text":"body","specificity":[0,0,1]}],"text":"body","range":{"startLine":0,"startColumn":230,"endLine":0,"endColumn":234}},"sourceLine":0,"origin":"regular","style":{"cssProperties":[{"name":"font-family","value":"Roboto,sans-serif","text":"font-family:Roboto,sans-serif;","implicit":false,"range":{"startLine":0,"startColumn":235,"endLine":0,"endColumn":265},"status":"active"},{"name":"background","value":"#f2f2f2","text":"background:#f2f2f2;","implicit":false,"range":{"startLine":0,"startColumn":265,"endLine":0,"endColumn":284},"status":"active"},{"name":"color","value":"#000","text":"color:#000;","implicit":false,"range":{"startLine":0,"startColumn":284,"endLine":0,"endColumn":295},"status":"active"},{"name":"font-size","value":"22px","text":"font-size:22px;","implicit":false,"range":{"startLine":0,"startColumn":295,"endLine":0,"endColumn":310},"status":"active"},{"name":"line-height","value":"25px","text":"line-height:25px;","implicit":false,"range":{"startLine":0,"startColumn":310,"endLine":0,"endColumn":327},"status":"active"},{"name":"letter-spacing","value":"-.01em","text":"letter-spacing:-.01em;","implicit":false,"range":{"startLine":0,"startColumn":327,"endLine":0,"endColumn":349},"status":"active"},{"name":"-webkit-font-smoothing","value":"antialiased","text":"-webkit-font-smoothing:antialiased;","implicit":false,"range":{"startLine":0,"startColumn":349,"endLine":0,"endColumn":384},"status":"active"},{"name":"-webkit-tap-highlight-color","value":"transparent","text":"-webkit-tap-highlight-color:transparent","implicit":false,"range":{"startLine":0,"startColumn":384,"endLine":0,"endColumn":423},"status":"active"},{"name":"background-image","value":"initial"},{"name":"background-repeat-x","value":"initial"},{"name":"background-repeat-y","value":"initial"},{"name":"background-attachment","value":"initial"},{"name":"background-position-x","value":"initial"},{"name":"background-position-y","value":"initial"},{"name":"background-origin","value":"initial"},{"name":"background-clip","value":"initial"},{"name":"background-color","value":"rgb(242, 242, 242)"},{"name":"background-size","value":"initial"}],"shorthandEntries":[{"name":"background","value":"rgb(242, 242, 242)"}],"styleId":{"styleSheetId":"8","ordinal":3},"width":"","height":"","range":{"startLine":0,"startColumn":235,"endLine":0,"endColumn":423},"cssText":"font-family:Roboto,sans-serif;background:#f2f2f2;color:#000;font-size:22px;line-height:25px;letter-spacing:-.01em;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent"},"sourceURL":"https://www.polymer-project.org/summit/styles/main.css","ruleId":{"styleSheetId":"8","ordinal":3}},"matchingSelectors":[0]}]},{"matchedCSSRules":[{"rule":{"selectorList":{"selectors":[{"text":"html","specificity":[0,0,1]}],"text":"html"},"sourceLine":0,"origin":"user-agent","style":{"cssProperties":[{"name":"display","value":"block"}],"shorthandEntries":[],"styleId":{"styleSheetId":"14","ordinal":0},"width":"","height":""}},"matchingSelectors":[0]}]}]},"id":72}	
+{
+    "id": 40,
+    "result": {
+        "inherited": [
+            {
+                "matchedCSSRules": [
+                    {
+                        "matchingSelectors": [
+                            0
+                        ],
+                        "rule": {
+                            "origin": "user-agent",
+                            "selectorList": {
+                                "selectors": [
+                                    {
+                                        "specificity": [
+                                            0,
+                                            0,
+                                            1
+                                        ],
+                                        "text": "body"
+                                    }
+                                ],
+                                "text": "body"
+                            },
+                            "sourceLine": 0,
+                            "style": {
+                                "cssProperties": [
+                                    {
+                                        "name": "display",
+                                        "value": "block"
+                                    },
+                                    {
+                                        "name": "margin-top",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-right",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-bottom",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-left",
+                                        "value": "8px"
+                                    }
+                                ],
+                                "height": "",
+                                "shorthandEntries": [
+                                    {
+                                        "name": "margin",
+                                        "value": "8px"
+                                    }
+                                ],
+                                "styleId": {
+                                    "ordinal": 2,
+                                    "styleSheetId": "11"
+                                },
+                                "width": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "matchedCSSRules": [
+                    {
+                        "matchingSelectors": [
+                            0
+                        ],
+                        "rule": {
+                            "origin": "user-agent",
+                            "selectorList": {
+                                "selectors": [
+                                    {
+                                        "specificity": [
+                                            0,
+                                            0,
+                                            1
+                                        ],
+                                        "text": "html"
+                                    }
+                                ],
+                                "text": "html"
+                            },
+                            "sourceLine": 0,
+                            "style": {
+                                "cssProperties": [
+                                    {
+                                        "name": "display",
+                                        "value": "block"
+                                    }
+                                ],
+                                "height": "",
+                                "shorthandEntries": [],
+                                "styleId": {
+                                    "ordinal": 0,
+                                    "styleSheetId": "11"
+                                },
+                                "width": ""
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "matchedCSSRules": [
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "origin": "user-agent",
+                    "selectorList": {
+                        "selectors": [
+                            {
+                                "specificity": [
+                                    0,
+                                    0,
+                                    1
+                                ],
+                                "text": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "sourceLine": 0,
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "name": "display",
+                                "value": "block"
+                            },
+                            {
+                                "name": "font-size",
+                                "value": "2em"
+                            },
+                            {
+                                "name": "-webkit-margin-before",
+                                "value": "0.67em"
+                            },
+                            {
+                                "name": "-webkit-margin-after",
+                                "value": "0.67em"
+                            },
+                            {
+                                "name": "-webkit-margin-start",
+                                "value": "0px"
+                            },
+                            {
+                                "name": "-webkit-margin-end",
+                                "value": "0px"
+                            },
+                            {
+                                "name": "font-weight",
+                                "value": "bold"
+                            }
+                        ],
+                        "height": "",
+                        "shorthandEntries": [],
+                        "styleId": {
+                            "ordinal": 15,
+                            "styleSheetId": "11"
+                        },
+                        "width": ""
+                    }
+                }
+            },
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "origin": "regular",
+                    "ruleId": {
+                        "ordinal": 0,
+                        "styleSheetId": "13"
+                    },
+                    "selectorList": {
+                        "range": {
+                            "endColumn": 6,
+                            "endLine": 1,
+                            "startColumn": 4,
+                            "startLine": 1
+                        },
+                        "selectors": [
+                            {
+                                "specificity": [
+                                    0,
+                                    0,
+                                    1
+                                ],
+                                "text": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "sourceLine": 2,
+                    "sourceURL": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/",
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "implicit": false,
+                                "name": "font-size",
+                                "range": {
+                                    "endColumn": 22,
+                                    "endLine": 2,
+                                    "startColumn": 6,
+                                    "startLine": 2
+                                },
+                                "status": "active",
+                                "text": "font-size: 10px;",
+                                "value": "10px"
+                            }
+                        ],
+                        "cssText": "\n      font-size: 10px;\n    ",
+                        "height": "",
+                        "range": {
+                            "endColumn": 4,
+                            "endLine": 3,
+                            "startColumn": 8,
+                            "startLine": 1
+                        },
+                        "shorthandEntries": [],
+                        "styleId": {
+                            "ordinal": 0,
+                            "styleSheetId": "13"
+                        },
+                        "width": ""
+                    }
+                }
+            },
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "origin": "regular",
+                    "ruleId": {
+                        "ordinal": 0,
+                        "styleSheetId": "14"
+                    },
+                    "selectorList": {
+                        "range": {
+                            "endColumn": 2,
+                            "endLine": 0,
+                            "startColumn": 0,
+                            "startLine": 0
+                        },
+                        "selectors": [
+                            {
+                                "specificity": [
+                                    0,
+                                    0,
+                                    1
+                                ],
+                                "text": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "sourceLine": 0,
+                    "sourceURL": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/foo.css",
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "implicit": false,
+                                "name": "border",
+                                "range": {
+                                    "endColumn": 27,
+                                    "endLine": 1,
+                                    "startColumn": 2,
+                                    "startLine": 1
+                                },
+                                "status": "active",
+                                "text": "border: solid 2px purple;",
+                                "value": "solid 2px purple"
+                            },
+                            {
+                                "name": "border-top-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-style",
+                                "value": "solid"
+                            },
+                            {
+                                "name": "border-top-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-width",
+                                "value": "2px"
+                            },
+                            {
+                                "name": "border-top-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-color",
+                                "value": "purple"
+                            },
+                            {
+                                "name": "border-image-source",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-slice",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-width",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-outset",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-repeat",
+                                "value": "initial"
+                            }
+                        ],
+                        "cssText": "\n  border: solid 2px purple;\n",
+                        "height": "",
+                        "range": {
+                            "endColumn": 0,
+                            "endLine": 2,
+                            "startColumn": 4,
+                            "startLine": 0
+                        },
+                        "shorthandEntries": [
+                            {
+                                "name": "border",
+                                "value": "2px solid purple"
+                            },
+                            {
+                                "name": "border-image",
+                                "value": ""
+                            }
+                        ],
+                        "styleId": {
+                            "ordinal": 0,
+                            "styleSheetId": "14"
+                        },
+                        "width": ""
+                    }
+                }
+            }
+        ],
+        "pseudoElements": []
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "method": "Console.messageAdded",
+    "params": {
+        "message": {
+            "column": 15,
+            "executionContextId": 3,
+            "level": "log",
+            "line": 10,
+            "parameters": [
+                {
+                    "type": "string",
+                    "value": "hi"
+                }
+            ],
+            "source": "console-api",
+            "stackTrace": [
+                {
+                    "columnNumber": 15,
+                    "functionName": "",
+                    "lineNumber": 10,
+                    "scriptId": "60",
+                    "url": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/"
+                }
+            ],
+            "text": "hi",
+            "timestamp": 1446248362.35488,
+            "type": "log",
+            "url": "http://samccone.github.io/webkit-remote-debugger-translator/test/sample-page/"
+        }
+    }
+}

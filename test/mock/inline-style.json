@@ -1,1 +1,81 @@
-{"result":{"inlineStyle":{"cssProperties":[],"shorthandEntries":[],"styleId":{"styleSheetId":"15","ordinal":0},"width":"","height":"","range":{"startLine":1,"startColumn":0,"endLine":1,"endColumn":0},"cssText":""}},"id":74}	
+{
+    "id": 40,
+    "result": {
+        "inlineStyle": {
+            "cssProperties": [
+                {
+                    "implicit": false,
+                    "name": "background",
+                    "range": {
+                        "endColumn": 0,
+                        "endLine": 1,
+                        "startColumn": 0,
+                        "startLine": 0
+                    },
+                    "status": "active",
+                    "text": "background:red",
+                    "value": "red"
+                },
+                {
+                    "name": "background-image",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-repeat-x",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-repeat-y",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-attachment",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-position-x",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-position-y",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-origin",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-clip",
+                    "value": "initial"
+                },
+                {
+                    "name": "background-color",
+                    "value": "red"
+                },
+                {
+                    "name": "background-size",
+                    "value": "initial"
+                }
+            ],
+            "cssText": "background:red",
+            "height": "",
+            "range": {
+                "endColumn": 0,
+                "endLine": 1,
+                "startColumn": 0,
+                "startLine": 0
+            },
+            "shorthandEntries": [
+                {
+                    "name": "background",
+                    "value": "red"
+                }
+            ],
+            "styleId": {
+                "ordinal": 0,
+                "styleSheetId": "12"
+            },
+            "width": ""
+        }
+    }
+}

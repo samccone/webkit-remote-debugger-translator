@@ -1,1 +1,330 @@
-{}
+{
+    "id": 40,
+    "result": {
+        "inherited": [
+            {
+                "matchedCSSRules": [
+                    {
+                        "matchingSelectors": [
+                            0
+                        ],
+                        "rule": {
+                            "media": [],
+                            "origin": "user-agent",
+                            "selectorList": {
+                                "selectors": [
+                                    {
+                                        "value": "body"
+                                    }
+                                ],
+                                "text": "body"
+                            },
+                            "style": {
+                                "cssProperties": [
+                                    {
+                                        "name": "display",
+                                        "value": "block"
+                                    },
+                                    {
+                                        "name": "margin-top",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-right",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-bottom",
+                                        "value": "8px"
+                                    },
+                                    {
+                                        "implicit": true,
+                                        "name": "margin-left",
+                                        "value": "8px"
+                                    }
+                                ],
+                                "shorthandEntries": [
+                                    {
+                                        "name": "margin",
+                                        "value": "8px"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "matchedCSSRules": [
+                    {
+                        "matchingSelectors": [
+                            0
+                        ],
+                        "rule": {
+                            "media": [],
+                            "origin": "user-agent",
+                            "selectorList": {
+                                "selectors": [
+                                    {
+                                        "value": "html"
+                                    }
+                                ],
+                                "text": "html"
+                            },
+                            "style": {
+                                "cssProperties": [
+                                    {
+                                        "name": "display",
+                                        "value": "block"
+                                    }
+                                ],
+                                "shorthandEntries": []
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "matchedCSSRules": [
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "media": [],
+                    "origin": "user-agent",
+                    "selectorList": {
+                        "selectors": [
+                            {
+                                "value": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "name": "display",
+                                "value": "block"
+                            },
+                            {
+                                "name": "font-size",
+                                "value": "2em"
+                            },
+                            {
+                                "name": "-webkit-margin-before",
+                                "value": "0.67em"
+                            },
+                            {
+                                "name": "-webkit-margin-after",
+                                "value": "0.67em"
+                            },
+                            {
+                                "name": "-webkit-margin-start",
+                                "value": "0px"
+                            },
+                            {
+                                "name": "-webkit-margin-end",
+                                "value": "0px"
+                            },
+                            {
+                                "name": "font-weight",
+                                "value": "bold"
+                            }
+                        ],
+                        "shorthandEntries": []
+                    }
+                }
+            },
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "media": [],
+                    "origin": "regular",
+                    "selectorList": {
+                        "selectors": [
+                            {
+                                "range": {
+                                    "endColumn": 6,
+                                    "endLine": 1,
+                                    "startColumn": 4,
+                                    "startLine": 1
+                                },
+                                "value": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "disabled": false,
+                                "implicit": false,
+                                "name": "font-size",
+                                "range": {
+                                    "endColumn": 22,
+                                    "endLine": 2,
+                                    "startColumn": 6,
+                                    "startLine": 2
+                                },
+                                "text": "font-size: 10px;",
+                                "value": "10px"
+                            }
+                        ],
+                        "cssText": "\n      font-size: 10px;\n    ",
+                        "range": {
+                            "endColumn": 4,
+                            "endLine": 3,
+                            "startColumn": 8,
+                            "startLine": 1
+                        },
+                        "shorthandEntries": [],
+                        "styleSheetId": "88928.5"
+                    },
+                    "styleSheetId": "88928.5"
+                }
+            },
+            {
+                "matchingSelectors": [
+                    0
+                ],
+                "rule": {
+                    "media": [],
+                    "origin": "regular",
+                    "selectorList": {
+                        "selectors": [
+                            {
+                                "range": {
+                                    "endColumn": 2,
+                                    "endLine": 0,
+                                    "startColumn": 0,
+                                    "startLine": 0
+                                },
+                                "value": "h1"
+                            }
+                        ],
+                        "text": "h1"
+                    },
+                    "style": {
+                        "cssProperties": [
+                            {
+                                "disabled": false,
+                                "implicit": false,
+                                "name": "border",
+                                "range": {
+                                    "endColumn": 27,
+                                    "endLine": 1,
+                                    "startColumn": 2,
+                                    "startLine": 1
+                                },
+                                "text": "border: solid 2px purple;",
+                                "value": "solid 2px purple"
+                            },
+                            {
+                                "name": "border-top-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-style",
+                                "value": "solid"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-style",
+                                "value": "solid"
+                            },
+                            {
+                                "name": "border-top-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-width",
+                                "value": "2px"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-width",
+                                "value": "2px"
+                            },
+                            {
+                                "name": "border-top-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-right-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-bottom-color",
+                                "value": "purple"
+                            },
+                            {
+                                "implicit": true,
+                                "name": "border-left-color",
+                                "value": "purple"
+                            },
+                            {
+                                "name": "border-image-source",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-slice",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-width",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-outset",
+                                "value": "initial"
+                            },
+                            {
+                                "name": "border-image-repeat",
+                                "value": "initial"
+                            }
+                        ],
+                        "cssText": "\n  border: solid 2px purple;\n",
+                        "range": {
+                            "endColumn": 0,
+                            "endLine": 2,
+                            "startColumn": 4,
+                            "startLine": 0
+                        },
+                        "shorthandEntries": [
+                            {
+                                "name": "border",
+                                "value": "2px solid purple"
+                            },
+                            {
+                                "name": "border-image",
+                                "value": ""
+                            }
+                        ],
+                        "styleSheetId": "88928.6"
+                    },
+                    "styleSheetId": "88928.6"
+                }
+            }
+        ],
+        "pseudoElements": []
+    }
+}
