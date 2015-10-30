@@ -9,3 +9,11 @@ The goal of this project is to write adapters to make the tests pass, which intu
 Running
 
 * `npm test`
+
+---
+
+Resources
+
+* iOS debugging protocol http://trac.webkit.org/browser/trunk/Source/WebInspectorUI/Versions/Inspector-iOS-9.0.json
+* chrome => firefox translation work https://github.com/mozilla/valence/tree/master/lib/chromium
+* a few existing CSS transformers https://github.com/artygus/devtools-compat-proxy/tree/master/lib
